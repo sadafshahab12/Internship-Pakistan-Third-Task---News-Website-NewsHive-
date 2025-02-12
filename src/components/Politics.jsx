@@ -6,7 +6,7 @@ import Loading from "./ui/Loading";
 import { auth } from "../../firebase";
 import { useNavigate } from "react-router-dom";
 
-const Politics = () => {
+const Politics = ({search}) => {
   const [politicsNews, setPoliticsNews] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
@@ -50,13 +50,16 @@ const Politics = () => {
   console.log(indexOfFirstNews);
   const currentNews = politicsNews.slice(indexOfFirstNews, indexOfLastNews);
   console.log(currentNews);
+  const filterePoliticsNews = currentNews.filter((politicsItem) =>
+    politicsItem.title.toLowerCase().includes(search.toLowerCase())
+  );
 
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
   return (
     <section className="max-w-6xl mx-auto py-8 px-6 text-slate-700 space-y-6 ">
       <h1 className="text-3xl text-center font-bold ">Politics News</h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 font-Karla gap-8 ">
-        {currentNews.map((politicsNews, index) => {
+        {filterePoliticsNews.map((politicsNews, index) => {
           const date = new Date(politicsNews.publishedAt);
           const formatedDate = date.toLocaleDateString("en-US", {
             year: "numeric",
