@@ -22,12 +22,23 @@ const Login = () => {
         showConfirmButton: false,
         timer: 2000,
       });
-      navigate("/");
+      navigate("/"); // Redirect on successful login
     } catch (error) {
       console.log(`Error in Login to your Account: ${error}`);
-      setErrorMessage(error);
+      setErrorMessage(error.message); // Store the error message for display
+      Swal.fire({
+        icon: "error",
+        title: "Oops! Something went wrong",
+        text: ` ${error.message} `,
+        showCancelButton: false,
+        confirmButtonText: "Got it",
+      }).then(() => {
+        // Focus back on the input or allow user interaction after Swal popup closes
+        document.getElementById("email").focus();
+      });
     }
   };
+
   const handleShowPassword = () => {
     setShowPassword(!showPassword);
   };

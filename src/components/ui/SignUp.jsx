@@ -52,6 +52,16 @@ const SignUp = () => {
     } catch (error) {
       console.log(error);
       setError(error.message);
+      Swal.fire({
+        icon: "error",
+        title: `Oops! Something went wrong`,
+        text: `${error.message}`,
+        confirmButtonText: "Okay",
+        showConfirmButton: true,
+      }).then(() => {
+        // Focus back on the input or allow user interaction after Swal popup closes
+        document.getElementById("email").focus();
+      });
     }
   };
   const [showPassword, setShowPassword] = useState(false);
