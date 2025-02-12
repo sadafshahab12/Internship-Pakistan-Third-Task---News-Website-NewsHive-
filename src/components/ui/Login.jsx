@@ -18,9 +18,9 @@ const Login = () => {
       await signInWithEmailAndPassword(auth, email, password);
       Swal.fire({
         icon: "success",
-        text: "You Loggedin Successfully to your Account",
+        text: "Login Successfully!",
         showConfirmButton: false,
-        timer: 1500,
+        timer: 2000,
       });
       navigate("/");
     } catch (error) {
