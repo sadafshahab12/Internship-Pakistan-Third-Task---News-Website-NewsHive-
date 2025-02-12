@@ -1,0 +1,955 @@
+{
+    "status": "ok",
+    "totalResults": 47997,
+    "articles": [
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "David Nield",
+        "title": "How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts",
+        "description": "The three biggest tech companies all offer a wealth of options to limit screen time, find lost devices, and more.",
+        "url": "https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/",
+        "urlToImage": "https://media.wired.com/photos/67899b3c48630cbedf000858/191:100/w_1280,c_limit/How-to-Parental-Controls-Gear-1322943745.jpg",
+        "publishedAt": "2025-01-20T13:00:00Z",
+        "content": "You can, for example, make sure only key apps like the Phone app are available after a certain time at night. Screen time works across Apple computers and mobile devices, so the settings are carried … [+1505 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Janko Roettgers",
+        "title": "The tech to build the holodeck",
+        "description": "Gaussian splatting, a new way of capturing 3D content, is taking the AR / VR industry by storm — and could one day allow anyone to create photorealistic 3D worlds.",
+        "url": "https://www.theverge.com/2025/1/19/24345491/gaussian-splats-3d-scanning-scaniverse-niantic",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/gq0ikarJ9X6pliVxfNJKqk2YEOY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25819654/257473_Gaussian_splats__CVirginia.jpg",
+        "publishedAt": "2025-01-19T13:00:00Z",
+        "content": "Gaussian splatting, a new way of capturing 3D content, is taking the AR / VR industry by storm and could one day allow anyone to create photorealistic 3D worlds.\r\nByJanko Roettgers\r\nJan 19, 2025, 1:0… [+12398 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Chris Haslam",
+        "title": "This High-Tech Handlebar Is Coming With Help From OnlyFans",
+        "description": "Former BMW and Porsche engineers are hoping to forge a new path in bike gear by making a first-of-its-kind digital bicycle upgrade.",
+        "url": "https://www.wired.com/story/this-high-tech-handlebar-is-coming-with-help-from-onlyfans/",
+        "urlToImage": "https://media.wired.com/photos/67a602f717ec1e4cbf26abd4/191:100/w_1280,c_limit/FliteRE-3.jpg",
+        "publishedAt": "2025-02-07T02:30:00Z",
+        "content": "Genuinely new products are rare these days, but as the first fully integrated smart handlebar, Flitedeck will supposedly bring something completely different to high-end cycling. This carbon-fiber ha… [+2652 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Lauren Feiner",
+        "title": "Donald Trump is officially president again",
+        "description": "President Donald Trump was sworn into office, ushering in a new era of policies that will have profound effects on the tech industry, including through tariffs and immigration.",
+        "url": "https://www.theverge.com/2025/1/20/24347837/donald-trump-second-inauguration-tech-regulation",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/YEbFD2ADJ6SYQTqJ4DBb_kRMxRA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25531807/STK175_DONALD_TRUMP_CVIRGINIA_A.jpg",
+        "publishedAt": "2025-01-20T17:03:03Z",
+        "content": "Donald Trump is officially president again\r\nDonald Trump is officially president again\r\n / Trumps second term will have major implications for the tech industry through tariffs, immigration policy, a… [+2596 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "AJ Dellinger",
+        "title": "MicroStrategy Says Drop the Micro, It’s Cleaner",
+        "description": "The tech company turned Bitcoin repository is changing its name.",
+        "url": "https://gizmodo.com/microstrategy-says-drop-the-micro-its-cleaner-2000559905",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/02/GettyImages-2039371693.jpg",
+        "publishedAt": "2025-02-06T13:45:12Z",
+        "content": "Michael Saylor is apparently done thinking small. The founder and CEO of MicroStrategy announced Wednesday that his company would be dropping the “Micro” from its name, instead operating as Strategy.… [+2833 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Gizmodo Deals",
+        "title": "Forget Black Friday, the Newest Galaxy S25 Ultra is Now Just $399 Instead of $1,299",
+        "description": "Transform Samsung's premium smartphones into budget-friendly tech dreams.",
+        "url": "https://gizmodo.com/forget-black-friday-the-newest-galaxy-s25-ultra-is-now-just-399-instead-of-1299-2000553435",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra.jpg",
+        "publishedAt": "2025-01-22T18:13:02Z",
+        "content": "Samsung has officially launched its anticipated Galaxy S25 Series, and pre-orders are now open on the official Samsung website. This new lineup includes the Galaxy S25, Galaxy S25+, and the flagship … [+2839 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Rory Carroll",
+        "title": "The Best Automotive Tech at CES 2025",
+        "description": "Check out our favorite vehicles from the show floor in Las Vegas.",
+        "url": "https://gizmodo.com/the-best-automotive-tech-at-ces-2025-2000548921",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/MAIN-Suzuki.jpg",
+        "publishedAt": "2025-01-11T11:00:47Z",
+        "content": "This years CES saw a number of major automakers skip the show amidst a disappointing market for tech-forward products and a political climate that could see that market worsen. Its not unusual for au… [+3570 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Vittoria Elliott",
+        "title": "Gold Sneakers and Too-Tight Suits: The Menswear Guy Weighs In on Inauguration Weekend",
+        "description": "Menswear influencer Derek Guy is unimpressed by what tech barons and the MAGA rank and file wore this weekend. “To be frank,” he says, “many conservatives are often behind on fashion trends.”",
+        "url": "https://www.wired.com/story/menswear-guy-maga-tight-suits-gold-sneakers/",
+        "urlToImage": "https://media.wired.com/photos/678eb4eae2eb3c757494ed1c/191:100/w_1280,c_limit/maga-fashion-pol.jpg",
+        "publishedAt": "2025-01-21T12:00:00Z",
+        "content": "Do you think that sort of classic American lookthe Ralph Lauren, the Oxford shirtis that going to be sort of the purview of MAGA forever or do you see that changing?\r\nI don't think the classic Americ… [+3749 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Kate Knibbs",
+        "title": "Your New Favorite Sex Toy Might Be a Drugstore ‘Egg’",
+        "description": "Tenga, a sex toy company that originated in Japan, has gained an unusually loyal following. One of its most popular products is both futuristic and decidedly low-tech: disposable “eggs.”",
+        "url": "https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/",
+        "urlToImage": "https://media.wired.com/photos/67a96ad3034ecf448afd0fa8/191:100/w_1280,c_limit/Wired_tenga_TimotheeLambrecq__1462863_250201.jpg",
+        "publishedAt": "2025-02-10T11:00:00Z",
+        "content": "Unlike the Fleshlight, which is flamboyantly anatomical in designsome versions are even molded to resemble the crotches of individual porn starsthe eggs are downright discreet. It looks like a fun te… [+1599 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Engadget",
+        "title": "CES 2025: The best tech and gadgets we saw in Las Vegas",
+        "description": "CES 2025 has come to a close — Friday was the final day of the show — and team Engadget has departed Las Vegas. Our reporters and editors spent the week scouring endless carpeted convention halls of the CES show floor, braving lines of chain smokers, overcomi…",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1a8aea2d-6a05-47b8-9fd3-5228487ca678",
+        "urlToImage": null,
+        "publishedAt": "2025-01-11T19:26:42Z",
+        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Steve Dent",
+        "title": "China’s DeepSeek AI assistant becomes top free iPhone app as US tech stocks take a hit",
+        "description": "Chinese AI assistant DeepSeek has become the top rated free app on Apple's App Store in the US and elsewhere, beating out ChatGPT and other rivals. It's powered by the open-source DeepSeek V3 model, which reportedly requires far less computing power than comp…",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_77718621-45d9-4bdb-8512-cebc2edfb974",
+        "urlToImage": null,
+        "publishedAt": "2025-01-27T13:44:45Z",
+        "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Steve Dent",
+        "title": "OM System's OM-3 camera marries vintage style with a high-tech stacked sensor",
+        "description": "OM System has unveiled the OM-3 Micro Four Thirds mirrorless camera, combining an old-school Olympus-style body with the latest stacked sensor technology. The new model offers buyers many of the capabilities of the company's flagship OM-1 Mark II, including f…",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0229b458-a347-432c-b479-a47f99549a97",
+        "urlToImage": null,
+        "publishedAt": "2025-02-06T13:00:20Z",
+        "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Sabina Graves",
+        "title": "Companion Puts a Fun But Disconcerting Sci-Fi Spin on the Manic Pixie Dream Girl",
+        "description": "The android tech thriller from the minds behind Barbarian opens January 31.",
+        "url": "https://gizmodo.com/companion-movie-review-jack-quaid-sophie-thatcher-2000553015",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bros.jpg",
+        "publishedAt": "2025-01-22T17:00:56Z",
+        "content": "Since the Companion trailer has already revealed that Sophie Thatcher’s character is indeed an emotional support robot, to put it lightly, there’s now a bit more free rein to describe what makes the … [+3433 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Lucas Ropek",
+        "title": "Poll Finds Only 30% of Americans Are Excited About Elon Musk’s DOGE",
+        "description": "Like in other countries, the tech billionaire's favorability rating in America is relatively low.",
+        "url": "https://gizmodo.com/poll-finds-only-30-of-americans-are-excited-about-elon-musks-doge-2000554893",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Elon-Musk.jpg",
+        "publishedAt": "2025-01-25T12:43:11Z",
+        "content": "Donald Trump, a billionaire, has filled his administration with other billionaires, the most high profile of which is his political benefactor and “first buddy” Elon Musk. Musk has taken it upon hims… [+2436 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Brittany Vincent",
+        "title": "Kim Kardashian’s Beats Studio Pro Is Back at Nearly 50% Off Just in Time for Valentine’s Day",
+        "description": "Save big on these understated but gorgeous headphones that combine Kardashian style with Beats tech.",
+        "url": "https://gizmodo.com/kim-kardashians-beats-studio-pro-is-back-at-nearly-50-off-just-in-time-for-valentines-day-2000555333",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/kkwbeats.jpg",
+        "publishedAt": "2025-01-28T13:10:09Z",
+        "content": "Headphones aren’t just about blocking out the world anymore. They’re about creating your own personal soundstage wherever you go. These Beats Studio Pro headphones, designed in collaboration with Kim… [+2315 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Justine Calma",
+        "title": "Bill Gates’ nuclear energy startup inks new data center deal",
+        "description": "Bill Gates’ nuclear energy startup, TerraPower inked a major deal with one of the largest data center developers in the US as tech companies turn to nuclear energy to power AI.",
+        "url": "https://www.theverge.com/2025/1/23/24350335/bill-gates-terrapower-data-center-sabey-nuclear-energy-ai",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/Fgkz7dPRzTYnEWQlJsgXdB2SSgI=/0x0:2876x1610/1200x628/filters:focal(1438x805:1439x806)/cdn.vox-cdn.com/uploads/chorus_asset/file/25844045/Screenshot_2025_01_23_at_2.05.21_PM.png",
+        "publishedAt": "2025-01-23T20:27:49Z",
+        "content": "Bill Gates nuclear energy startup inks new data center deal\r\nBill Gates nuclear energy startup inks new data center deal\r\n / Tech companies are flocking to nuclear energy to power their data centers.… [+2936 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Trump’s first 100 days: all the news impacting the tech industry",
+        "description": "President Donald Trump is taking on TikTok, electric vehicle policy, and AI in his first 100 days in office. This time around, he has the backing of many tech billionaires.",
+        "url": "https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/Nwo4_i4giY8lRM0Rtzih1IHTSLU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25531809/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg",
+        "publishedAt": "2025-01-22T14:30:00Z",
+        "content": "Filed under:\r\nByLauren Feiner, a senior policy reporter at The Verge, covering the intersection of Silicon Valley and Capitol Hill. She spent 5 years covering tech policy at CNBC, writing about antit… [+7943 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Makena Kelly, Vittoria Elliott",
+        "title": "Government Tech Workers Forced to Defend Projects to Random Elon Musk Bros",
+        "description": "A recent high school graduate and former Neuralink intern has joined meetings to review lines of code and other work history of career public servants, sparking chaos at a major government agency.",
+        "url": "https://www.wired.com/story/elon-musk-government-tech-workers-gsa-tts/",
+        "urlToImage": "https://media.wired.com/photos/679be642213ebcc4b4058752/191:100/w_1280,c_limit/musk-chaos-pol-2195986713.jpg",
+        "publishedAt": "2025-01-30T23:58:11Z",
+        "content": "The email is reminiscent of one that Musk sent early in his Twitter days, demanding that employees email a one-page description of what they had accomplished the previous month and how it differed fr… [+3110 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Sabina Graves",
+        "title": "Harrison Ford Knows Real Actor Imitations of His Characters Are Way Better Than AI",
+        "description": "The national treasure and star of Captain America: Brave New World dismisses the use of lifeless tech.",
+        "url": "https://gizmodo.com/harrison-ford-knows-real-actor-imitations-of-his-characters-are-way-better-than-ai-2000560028",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/02/indiana-jones-and-the-great-circle-1.jpg",
+        "publishedAt": "2025-02-06T00:45:56Z",
+        "content": "Any time Harrison Ford goes on a press tour to do his actorly duty of talking about his latest projectright now that’s his Marvel Cinematic Universe debut, Captain America: Brave New Worldhe’s unavoi… [+1719 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Lucas Ropek",
+        "title": "Longevity-Obsessed Tech Millionaire Discontinues De-Aging Drug Out of Concerns That It Aged Him",
+        "description": "The tech centimillionaire, who is known for taking droves of wellness supplements, has backtracked on one of his special pills.",
+        "url": "https://gizmodo.com/longevity-obsessed-tech-millionaire-discontinues-de-aging-drug-out-of-concerns-that-it-aged-him-2000549377",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Bryan-Johnson-speaks-at-a-conference-in-Beverly-Hills.jpg",
+        "publishedAt": "2025-01-13T21:10:48Z",
+        "content": "Bryan Johnson has long been obsessed with “de-aging” himself. The 46-year-old multimillionaire, who made his money by founding various tech companies, has spent years of his life and millions of doll… [+3394 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Brittany Vincent",
+        "title": "Amazon’s Best Docking Station Deal? Anker 13-in-1 Charger Just Hit Its Lowest Price",
+        "description": "Keep everything within reach and powered up with this docking station that can accommodate your entire tech stack.",
+        "url": "https://gizmodo.com/amazons-best-docking-station-deal-anker-13-in-1-charger-just-hit-its-lowest-price-2000556946",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/ankerdockingstation.jpg",
+        "publishedAt": "2025-01-31T15:05:31Z",
+        "content": "Need to turn your laptop into a powerhouse workstation without the mess of cables? Anker’s 13-in-1 docking station is your resonably-priced solution. Instead of having to juggle multiple adapters and… [+2213 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Makena Kelly",
+        "title": "The MAGA Influencers Take Their Victory Lap, With Big Tech Picking Up the Tab",
+        "description": "At parties throughout Washington over the long Inauguration weekend, creators and strategists who take credit for Donald Trump’s victory toasted their success on the dimes of TikTok, Google, and Spotify.",
+        "url": "https://www.wired.com/story/maga-influencers-inauguration-victory-lap/",
+        "urlToImage": "https://media.wired.com/photos/678aa434fc1049058739e8ae/191:100/w_1280,c_limit/maga-influencers-pol.jpg",
+        "publishedAt": "2025-01-20T14:55:28Z",
+        "content": "At the Power 30 party sponsored by TikTok, conservative content creators leaned into their newfound patrons, dancing to top 40 hits for hours in Make America Great Again hats with TikTok-labeled ear … [+3341 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "Tech Billionaires Announce ‘Project Stargate’ With Trump, But Where’s Elon?",
+        "description": "\"We will be amazed at how quickly we're curing this cancer and that one,\" said Sam Altman of the AI project.",
+        "url": "https://gizmodo.com/tech-billionaires-announce-project-stargate-with-trump-but-wheres-elon-2000552982",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Donald-Trump-OpenAI-CEO-Sam-Altman-SoftBank-CEO-Masayoshi-Son-and-Oracle-CTO-Larry-Ellison-speaks-as-he-leaves-a-news-conference-in-the-Roosevelt-Room-of-the-White-House-on-January-21-2025-in-Washington-DC-1.jpg",
+        "publishedAt": "2025-01-22T13:50:00Z",
+        "content": "Donald Trump held the first press conference of his new presidential term on Tuesday, along with three billionaires who are starting a new partnership called Stargate that they claim will create wond… [+4489 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Thomas Maxwell",
+        "title": "There’s Something Fishy About This Fish Tech Startup",
+        "description": "The SoftBank-backed eFishery seems to have faked hundreds of millions of dollars in sales.",
+        "url": "https://gizmodo.com/theres-something-fishy-about-this-fish-tech-startup-2000553691",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/milkfish.jpg",
+        "publishedAt": "2025-01-22T21:34:29Z",
+        "content": "An Indonesian agriculture tech startup that raised hundreds of millions of dollars appears to be a giant fraud. The company, called eFishery, reportedly told investors including SoftBank that it had … [+1859 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Thomas Maxwell",
+        "title": "Tech Lobbyists Are Mad Feds Want to Regulate Digital Payment Apps Like Banks",
+        "description": "After a fintech startup recently lost its users funds, it is hard to find sympathy for tech companies seeking loosened regulation.",
+        "url": "https://gizmodo.com/tech-lobbyists-are-mad-feds-want-to-regulate-digital-payment-apps-like-banks-2000551858",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/10/chase-atm-fraud.jpg",
+        "publishedAt": "2025-01-17T17:00:11Z",
+        "content": "A pair of tech trade groups are suing the federal government over its attempts to regulate digital payment apps and wallets like banks. A lawsuit filed against the Consumer Financial Protection Burea… [+3142 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Matthew Gault",
+        "title": "AI Will Spew Gas Fumes for Years Before the Nuclear Revolution Takes Off",
+        "description": "Nuclear reactors take a long time to build and Big Tech will use gas power to bridge the gap and meet its energy demands.",
+        "url": "https://gizmodo.com/ai-will-spew-gas-fumes-for-years-before-the-nuclear-revolution-takes-off-2000550092",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/NaturalGas.jpg",
+        "publishedAt": "2025-01-14T22:46:48Z",
+        "content": "AI is power hungry and the companies behind the tech are striving to stand up nuclear reactors to feed it. But nuclear reactors take a long time to build and AI will need massive amounts of power yea… [+4634 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Kyle Barr",
+        "title": "DJI New Small-Sized Transforming Drone Folds Up to Look Like a Star Wars Droid",
+        "description": "Like the Neo, the $440 DJI Flip can launch from your palm, but it includes better object avoidance tech and a bigger sensor.",
+        "url": "https://gizmodo.com/dji-new-small-sized-transforming-drone-folds-up-to-look-like-a-star-wars-droid-2000549614",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/DJI-Flip-Gizmodo-Remi-Lou-1-Hero.jpg",
+        "publishedAt": "2025-01-14T13:00:31Z",
+        "content": "Lightweight drones are having a small renaissance leading into 2025. Weve seen more designs small enough to take off and land in your outstretched palm, but the new DJI Flip offers one of the cutest-… [+3750 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Mike Fazioli",
+        "title": "It’s Almost Here, Pre-Reserve the Samsung Galaxy S25 Now and Get Up to $1,250 in Savings",
+        "description": "The biggest tech drop of 2025 is now just a week away, and saving your place in line now earns you some incredible benefits.",
+        "url": "https://gizmodo.com/its-almost-here-pre-reserve-the-samsung-galaxy-s25-now-and-get-up-to-1250-in-savings-2000550368",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Galaxy-S25.jpeg",
+        "publishedAt": "2025-01-15T16:00:29Z",
+        "content": "We are now just one week away from the biggest tech drop of 2025. Yes, it’s only January, but the rollout of Samsung’s new line of Galaxy S25 phones could easily end up being the biggest tech drop of… [+2158 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "PM plans to 'unleash AI' across UK to boost growth",
+        "description": "Leading tech firms are said to have committed £14bn towards the project, which could create more than 13,000 jobs.",
+        "url": "https://www.bbc.com/news/articles/crr05jykzkxo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9697/live/f2a28520-d12f-11ef-9514-a797c48e9787.jpg",
+        "publishedAt": "2025-01-12T22:29:28Z",
+        "content": "The government is to set out plans to use artificial intelligence (AI) across the UK to boost growth and deliver public services more efficiently.\r\nThe AI Opportunities Action Plan being announced on… [+4349 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Reeves urges platforms to remove violent content viewed by Southport killer",
+        "description": "Material seen by Southport murderer Axel Rudakubana should be removed by tech firms, the chancellor says.",
+        "url": "https://www.bbc.com/news/articles/ckgyj8p1zkeo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bd11/live/2d2c7db0-dbec-11ef-bc01-8f2c83dad217.jpg",
+        "publishedAt": "2025-01-26T13:53:21Z",
+        "content": "Tech companies should take down harmful material now - Reeves\r\nOnline platforms must act now to remove violent content viewed by the Southport killer to prevent further attacks, Chancellor Rachel Ree… [+4824 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "£22bn for 'unproven' green tech could raise bills, MPs warn",
+        "description": "The Public Accounts Committee warns the government of gambling public money on carbon capture.",
+        "url": "https://www.bbc.com/news/articles/ce8jpj3z3n2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1ef9/live/a7641150-e4a3-11ef-bef0-5f51bf28fa22.jpg",
+        "publishedAt": "2025-02-07T00:12:34Z",
+        "content": "Esme StallardClimate and science reporter, BBC News\r\nThe government is committing billions of pounds to an \"unproven\" green technology for reducing planet-warming gases without considering the impact… [+4656 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "US tech giants announce AI plan worth up to $500bn",
+        "description": "OpenAI, Oracle and Softbank join forces to build artificial intelligence infrastructure.",
+        "url": "https://www.bbc.com/news/articles/cy4m84d2xz2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/84ff/live/1f881110-d87c-11ef-ac27-7d96dfc74407.jpg",
+        "publishedAt": "2025-01-22T04:50:20Z",
+        "content": "OpenAI, Oracle and Softbank form joint venture to build artificial intelligence infrastructure\r\nOpenAI is teaming up with Oracle and Softbank to build data centres equipped to power artificial intell… [+3278 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Tech CEOs, celebs and presidents - who's inside Trump's inauguration",
+        "description": "Joe Rogan, Mark Zuckerberg and Jeff Bezos were among those invited inside the Capitol for Donald Trump's swearing in.",
+        "url": "https://www.bbc.com/news/videos/c07k882md4no",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09b3/live/372bd630-d750-11ef-87df-d575b9a434a4.jpg",
+        "publishedAt": "2025-01-20T17:10:16Z",
+        "content": "Donald Trump's inauguration was held inside the Capitol rotunda and attended by many familiar faces. \r\nHe invited tech CEOs including Elon Musk, Mark Zuckerberg and Tim Cook as well as podcaster Joe … [+74 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "BeauHD",
+        "title": "Calm Tech Certification 'Rewards' Less Distracting Tech",
+        "description": "An anonymous reader quotes a report from IEEE Spectrum: [Amber Case is a speaker and author of Calm Technology.] Case's book, inspired by the work of Xerox PARC researchers Mark Weiser and John Seely Brown, outlines eight principles for calm technology; examp…",
+        "url": "https://tech.slashdot.org/story/25/01/22/056208/calm-tech-certification-rewards-less-distracting-tech",
+        "urlToImage": "https://a.fsdn.com/sd/topics/technology_64.png",
+        "publishedAt": "2025-01-22T12:00:00Z",
+        "content": "[Amber Case is a speaker and author of Calm Technology.] Case's book, inspired by the work of Xerox PARC researchers Mark Weiser and John Seely Brown, outlines eight principles for calm technology; e… [+2737 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Khari Johnson for The Markup",
+        "title": "Fearing AI Will Take Their Jobs, Workers Strategize for a Long Battle Against Tech",
+        "description": "At a landmark gathering in California, workers discussed defenses against artificial intelligence and surveillance technology.",
+        "url": "https://gizmodo.com/fearing-ai-will-take-their-jobs-workers-strategize-for-a-long-battle-against-tech-2000552129",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Sam-Altman-being-interviewed-by-Fox-Business.jpg",
+        "publishedAt": "2025-01-19T12:00:05Z",
+        "content": "The current frenzy around artificial intelligence has spread like a shockwave.\r\nIt started among engineers inspired by a 2017 research paper. Next came venture capitalists eager to profit from a new … [+9742 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Ed Cara",
+        "title": "From Covid to Norovirus: Moderna’s mRNA Tech Takes on Stomach Flu",
+        "description": "Moderna's Phase III trial will test out its experimental vaccine in 25,000 people over the next two years.",
+        "url": "https://gizmodo.com/from-covid-to-norovirus-modernas-mrna-tech-takes-on-stomach-flu-2000550591",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/Norovirus.jpg",
+        "publishedAt": "2025-01-20T11:00:30Z",
+        "content": "The misery of the common stomach flu may be coming to an end. Pharmaceutical company Moderna has launched a large-scale Phase III trial that will test out a vaccine against norovirus, a frequent and … [+4384 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Lucas Ropek",
+        "title": "Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires",
+        "description": "The great battle for Greenland is probably all about resources to make apps like ChatGPT better.",
+        "url": "https://gizmodo.com/trumps-greenland-obsession-may-be-about-extracting-metals-for-tech-billionaires-2000557117",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Donald-Trump-on-the-South-Lawn-of-the-White-House.jpg",
+        "publishedAt": "2025-01-30T21:55:16Z",
+        "content": "Our new president’s obsession with buying Greenland has inspired jeers, laughs, and jokes about the cost of eggs, but more and more, the attempted procurement looks less like a joke and more like a b… [+4005 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Lorelei Kelly, The Conversation",
+        "title": "The Communications Tech Used by Congress Is Absurdly Out of Date",
+        "description": "The technology that runs Congress lags so far behind the modern world that its flag-tracking system just caught up to 2017-era Pizza Hut.",
+        "url": "https://gizmodo.com/the-communications-tech-used-by-congress-is-absurdly-out-of-date-2000555700",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/file-20250115-15-gjkj4m.jpg",
+        "publishedAt": "2025-01-28T13:22:21Z",
+        "content": "On a typical day, you cant turn on the news without hearing someone say that Congress is broken. The implication is that this dereliction explains why the institution is inert and unresponsive to the… [+7125 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Victoria Song",
+        "title": "It’s perfectly fine to ignore your smartwatch this January",
+        "description": "Smartwatches, wearables, and fitness apps often push you to make the best of New Year’s Resolutions. Sometimes it’s better to ignore that noise completely.",
+        "url": "https://www.theverge.com/2025/1/17/24345802/smartwatch-wearables-fitness-tech-new-years-resolutions",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/_efGA3hnJGlbI6Yt6EB92VVXIes=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25623086/247270_Apple_watch_series_10_AKrales_0631.jpg",
+        "publishedAt": "2025-01-17T16:51:06Z",
+        "content": "Its perfectly fine to ignore your smartwatch this January\r\nIts perfectly fine to ignore your smartwatch this January\r\n / Lots of wearables and fitness tech make a ruckus about New Years Resolutions. … [+3049 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Wes Davis",
+        "title": "Parallels is testing x86 emulation on Apple silicon Macs",
+        "description": "Parallels version 20.2 has added an early preview of x86 emulation support for Apple silicon Macs, with several limitations that mean most won’t want to use it.",
+        "url": "https://www.theverge.com/2025/1/14/24343774/parallels-windows-10-11-x86-apple-silicon-mac-support-preview",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/jg4SPaantuCoK_443ySoN-qwVyg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718363/247372_MacBook_Pro_M4_ADiBenedetto_0002.jpg",
+        "publishedAt": "2025-01-14T21:39:20Z",
+        "content": "Parallels is testing x86 emulation on Apple silicon Macs\r\nParallels is testing x86 emulation on Apple silicon Macs\r\n / x86 emulation has been missing from Arm-based Macs since Apple transitioned to A… [+1707 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Sarah Jeong",
+        "title": "Trump pardons Silk Road operator Ross Ulbricht",
+        "description": "Pardoning Ulbricht, who was serving a life sentence, fulfills a campaign promise made to crypto diehards who backed Donald Trump’s campaign.",
+        "url": "https://www.theverge.com/2025/1/21/24349080/trump-pardon-silk-road-dark-web-drug-marketplace-ross-ulbricht",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/W_lGO8eNlUcEjBmUJg7KMYgT8-c=/0x0:2040x1360/1200x628/filters:focal(1081x561:1082x562)/cdn.vox-cdn.com/uploads/chorus_asset/file/25531809/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg",
+        "publishedAt": "2025-01-22T01:17:14Z",
+        "content": "Trump pardons Silk Road operator Ross Ulbricht\r\nTrump pardons Silk Road operator Ross Ulbricht\r\n / The pardon fulfills a campaign promise made to the presidents crypto diehards.\r\nBySarah Jeong, featu… [+1805 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Riddhi Kanetkar",
+        "title": "US tech giants are rolling back DEI. Its ripple effects could spill over to Europe.",
+        "description": "As US tech giants continue their rollback of DEI policies, Europe's tech ecosystem braces for changing sentiments to ripple across the Atlantic.",
+        "url": "https://www.businessinsider.com/us-big-tech-dei-europe-diversity-inclusion-mark-zucekerberg-meta-2025-1",
+        "urlToImage": "https://i.insider.com/67a3497ceb4be2fff9a388b8?width=1200&format=jpeg",
+        "publishedAt": "2025-02-05T11:43:29Z",
+        "content": "Mark Zuckerberg has said Meta would scale back its DEI initiatives. Shawn Thew-Pool/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EBig Tech companies like Meta and Amazon have been scaling back their DEI programs. \u003C/li\u003E\u003Cli\u003EE… [+5307 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Bradley Saacks",
+        "title": "Who foresaw the DeepSeek-caused sell-off of Magnificent 7 stocks? Hedge funds, which have been cutting exposure for months",
+        "description": "Managers like Mala Gaonkar's SurgoCap Partners sold out of big-name US tech companies before the tech sell off, filings show.",
+        "url": "https://www.businessinsider.com/hedge-funds-tech-sell-off-deepseek-magnificant-7-stocks-2025-1",
+        "urlToImage": "https://i.insider.com/6798f418196626c40985409a?width=1200&format=jpeg",
+        "publishedAt": "2025-01-28T15:29:16Z",
+        "content": "Big-name US tech companies have slumped thanks to Chinese AI company DeepSeek.LIU JIN/AFP via Getty Images\r\n\u003Cul\u003E\u003Cli\u003EThe emergence of Chinese AI darling DeepSeek led to a sell-off of stocks like Nvidi… [+2650 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "John Carlsen",
+        "title": "I Bought 5 Cheap Home Tech Products on AliExpress to See if They Were any Good",
+        "description": "Cheap tech can be good but it usually isn't.",
+        "url": "https://www.cnet.com/home/smart-home/i-bought-5-cheap-home-tech-products-on-aliexpress-to-see-if-they-were-any-good/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/c0a1969327540268e8600c8537a7c2e95e073667/hub/2025/01/13/29ac5ecc-21ce-4937-bbc4-e3eda1193bae/home-tech-bought-from-aliexpress-on-desk.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-01-14T14:17:00Z",
+        "content": "I'm a huge fan of YouTube videos breaking down cheap products that people can find on discount retailers like AliExpress, Temu and Wish. My favorite is Great Scott's AliExpress Hidden Gems series, wh… [+6760 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Lucas Ropek",
+        "title": "Trump Returns Big Tech’s Ass Kissing at Davos",
+        "description": "As Trump heads back to the White House, he's putting the rest of the world on notice.",
+        "url": "https://gizmodo.com/trump-returns-big-techs-ass-kissing-at-davos-2000554158",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Donald-Trump-during-a-press-conference.jpg",
+        "publishedAt": "2025-01-23T21:50:42Z",
+        "content": "Countries all over the world have been anxiously awaiting the return of Donald Trump. This week, as Trump retook his position in the White House, the new president also made an appearance at the Worl… [+4127 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "techkritiko@gmail.com (Jay Bonggolto)",
+        "title": "OnePlus' new health lab is a big step for its wellness technology",
+        "description": "OnePlus debuts a new health lab in China, doubling down on next-gen wellness tech.",
+        "url": "https://www.androidcentral.com/wearables/oneplus-new-health-lab-is-a-big-step-for-its-wellness-technology",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/BqzGoXiKPCZEGmGKJmtdoX-1200-80.png",
+        "publishedAt": "2025-02-09T15:39:55Z",
+        "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003EOnePlus has opened a massive 4,840m² Health Lab in Guangdong, China, built to push the limits of wellness innovation.\u003C/li\u003E\u003Cli\u003EThe lab is stacked with high-end gear, fro… [+2354 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Quentyn Kennemer",
+        "title": "North Korea linked to crypto heists of over $650 million in 2024 alone",
+        "description": "A joint report from US, Japan, and South Korea suggests North Korean hackers known as Lazarus Group were behind the $235 million crypto heist of Indian exchange WazirX.",
+        "url": "https://www.theverge.com/2025/1/14/24343762/north-korea-crypto-stolen-wazirx-lazarus-group",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/wPO2usOSxctI84haZv11M8ErP_0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23587767/acastro_220524_STK428_0003.jpg",
+        "publishedAt": "2025-01-14T20:54:03Z",
+        "content": "North Korea linked to crypto heists of over $650 million in 2024 alone\r\nNorth Korea linked to crypto heists of over $650 million in 2024 alone\r\n / A joint report by Japan, South Korea, and the US lin… [+2141 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Wes Davis",
+        "title": "Amazon Prime will shut down its clothing try-on program",
+        "description": "Amazon is shuttering Prime Try Before You Buy, a program that let customers try on clothes before paying for them, starting on January 31st.",
+        "url": "https://www.theverge.com/2025/1/11/24341422/amazon-prime-wardrobe-try-before-you-buy-shutting-down",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/YsSwJjeePniOk01QDHeAsuHaotg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg",
+        "publishedAt": "2025-01-11T17:56:14Z",
+        "content": "Amazon Prime will shut down its clothing try-on program\r\nAmazon Prime will shut down its clothing try-on program\r\n / Prime Try Before You Buy will end on January 31st.\r\nByWes Davis, a weekend editor … [+2260 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Quentyn Kennemer",
+        "title": "The Roborock Q5 Max Plus drops to an all-time low of $280",
+        "description": "You can buy Roborock’s Q5 Max Plus for a record low of $279.99. The affordable, reliable robot vacuum offers great suction with all the basics needed for routine cleaning.",
+        "url": "https://www.theverge.com/2025/1/16/24345168/roborock-q5-max-plus-robot-vacuum-amazon-deal-sale",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/b6mH7dmbk9iW6yiwXuXwXSsD9nI=/0x0:880x546/1200x628/filters:focal(440x273:441x274)/cdn.vox-cdn.com/uploads/chorus_asset/file/25833970/roborock_q5_max_plus.jpg",
+        "publishedAt": "2025-01-16T17:24:13Z",
+        "content": "The Roborock Q5 Max Plus drops to an all-time low of $280\r\nThe Roborock Q5 Max Plus drops to an all-time low of $280\r\n / Its a solid starting option that pet hairs hate to see coming.\r\nByQuentyn Kenn… [+1699 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "David Pierce",
+        "title": "The TikTok ban, and what comes next",
+        "description": "How the Supreme Court will decide TikTok’s fate, whether Donald Trump or Elon Musk might save it in the US, whether China will sell, and more on The Vergecast.",
+        "url": "https://www.theverge.com/2025/1/14/24343419/tiktok-ban-kickstarter-magic-links-vergecast",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/mEuU7wmb2cIA5zsXxUHYBdSWsck=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25830903/VRG_0114_Site.jpg",
+        "publishedAt": "2025-01-14T13:56:07Z",
+        "content": "The TikTok ban, and what comes next\r\nThe TikTok ban, and what comes next\r\n / On The Vergecast: why the end of TikTok looks closer than ever, the future of Kickstarter gadgets, and those pesky login l… [+2233 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Sarah Fielding",
+        "title": "Former Amazon Executive to run UK's antitrust agency",
+        "description": "The UK's Competition and Markets Authority (MCA), a watchdog agency which has repeatedly probed Amazon's business dealings, will now be run by former Amazon executive Doug Gurr. — that makes sense, right? Gurr will serve as interim chair \"in a bid to boost gr…",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_19b58409-c7fc-430c-a8aa-90053f1dc6dd",
+        "urlToImage": null,
+        "publishedAt": "2025-01-22T16:34:33Z",
+        "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+        "title": "Ask Jerry: What can I do about dishonest app developers?",
+        "description": "Have a question about the tech in your life? If so, maybe we can get them answered!",
+        "url": "https://www.androidcentral.com/apps-software/ask-jerry-what-can-i-do-about-dishonest-app-developers",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/HrmCzNcQDgwjg2sArrBf7S-1200-80.jpg",
+        "publishedAt": "2025-02-03T21:01:37Z",
+        "content": "Welcome to Ask Jerry, where we talk about any and all the questions you might have about the smart things in your life. I'm Jerry, and I have spent the better part of my life working with tech. I hav… [+4265 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "techkritiko@gmail.com (Jay Bonggolto)",
+        "title": "DeepSeek AI is crushing the competition and triggering an AI stock bloodbath",
+        "description": "China's DeepSeek is leaving Big Tech in the dust, nailing technical tasks while keeping costs way lower.",
+        "url": "https://www.androidcentral.com/apps-software/deepseek-ai-is-crushing-the-competition-and-triggering-an-ai-stock-bloodbath",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/Qp68TBCXdkbxwUXJZKvSET-1200-80.jpg",
+        "publishedAt": "2025-01-28T14:11:14Z",
+        "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003EDeepSeek, a Chinese AI startup, is shaking up the tech world by outperforming Big Tech’s models with fewer resources and lower costs.\u003C/li\u003E\u003Cli\u003EIts latest AI launch cause… [+2358 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Thomas Maxwell",
+        "title": "Far From Dead, Yahoo Is Attracting Gen Z",
+        "description": "Instead of seeking global domination, Yahoo is fine sticking to its roots.",
+        "url": "https://gizmodo.com/far-from-dead-yahoo-is-attracting-gen-z-2000556395",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/02/65722fe43b87f9694a7171cd252ec330.jpg",
+        "publishedAt": "2025-01-29T17:05:03Z",
+        "content": "There is something to be said about the lasting endurance of Yahoo. We do not think about the company much anymore, and yet it can proudly proclaim to be one of the last tech pioneers of the ’90s dot… [+4244 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+        "title": "Ask Jerry: Are tariffs going to make my next phone cost more?",
+        "description": "Have a question about the tech in your life? If so, maybe we can get them answered!",
+        "url": "https://www.androidcentral.com/phones/ask-jerry-are-tariffs-going-to-make-my-next-phone-cost-more",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/HrmCzNcQDgwjg2sArrBf7S-1200-80.jpg",
+        "publishedAt": "2025-02-10T21:04:07Z",
+        "content": "Welcome to Ask Jerry, where we talk about any and all the questions you might have about the smart things in your life. I'm Jerry, and I have spent the better part of my life working with tech. I hav… [+5993 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Tiffany Connors",
+        "title": "Apple Card Could Find New Home With Barclays or Synchrony. What Cardholders Should Know",
+        "description": "The tech giant's credit card has consistently lacked great features — here's what a new issuer could bring.",
+        "url": "https://www.cnet.com/personal-finance/credit-cards/apple-card-could-find-new-home-with-barclays-or-synchrony-what-cardholders-should-know/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/4d77dd1b8985fc8f6b70fab3af60249c8ff0c3aa/hub/2025/01/17/a7a2abae-6f57-4f75-99f5-ccf38b8de8cc/promo-money-18.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-01-18T00:14:02Z",
+        "content": "It looks like the Apple Card may have suitors lining up amid its public breakup with Goldman Sachs.\r\nApple is in talks with Barclays and Synchrony Financial to replace Goldman Sachs as its card issue… [+1931 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Bradley Hope",
+        "title": "A Spymaster Sheikh Controls a $1.5 Trillion Fortune. He Wants to Use It to Dominate AI",
+        "description": "Tahnoun bin Zayed al Nahyan—the UAE’s chess-obsessed, jiujitsu-loving intelligence chief—controls vast sums of sovereign wealth. America’s AI giants are scrambling for a piece of it.",
+        "url": "https://www.wired.com/story/uae-intelligence-chief-ai-money/",
+        "urlToImage": "https://media.wired.com/photos/677daa27773697edec0f7f33/191:100/w_1280,c_limit/WEB_Mia-Angioy-x-Wired-(Collage-1).jpg",
+        "publishedAt": "2025-01-14T11:00:00Z",
+        "content": "For a while in the mid-2000s, a refrigerator-sized box in Abu Dhabi was considered the greatest chess player in the world. Its name was Hydra, and it was a small super-computera cabinet full of indus… [+3842 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Reece Rogers",
+        "title": "AI Agents Are Here. How Much Should We Let Them Do?",
+        "description": "WIRED’s advice columnist cracks open the publication’s archive to consider past promises about AI agents, and to get some advice on how we can use automation while retaining our humanity.",
+        "url": "https://www.wired.com/story/the-prompt-ai-agents-how-much-should-we-let-them-do/",
+        "urlToImage": "https://media.wired.com/photos/6786b1aa301fe53f8dec601a/191:100/w_1280,c_limit/gear_ai_advice_agent_tasks.png",
+        "publishedAt": "2025-01-15T12:30:00Z",
+        "content": "Should I set up a personal AI agent to help with my daily tasks?\r\nSearching for Assistance\r\nAs a general rule, I think relying on any kind of automation in your daily life is dangerous when taken to … [+3256 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Dan DeFrancesco",
+        "title": "Meta's performance-based cuts could kick off a wider trend in tech",
+        "description": "Firing low performers isn't standard in tech just yet — but that could change.",
+        "url": "https://www.businessinsider.com/meta-mark-zuckerberg-plan-fire-low-performers-tech-trend-2025-1",
+        "urlToImage": "https://i.insider.com/6787a36c50dfd88e193e766a?width=1024&format=jpeg",
+        "publishedAt": "2025-01-15T12:28:47Z",
+        "content": "Meta CEO Mark ZuckerbergAnna Moneymaker/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EThis post originally appeared in the Business Insider Today newsletter.\u003C/li\u003E\u003Cli\u003EYou can sign up for Business Insider's daily newsletter h… [+9109 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Dan DeFrancesco",
+        "title": "Trump is returning to the White House, and he's got more support from tech leaders this time",
+        "description": "Trump's incoming administration has a different relationship to business leaders, especially in tech.",
+        "url": "https://www.businessinsider.com/trump-inauguration-second-presidency-support-big-tech-2025-1",
+        "urlToImage": "https://i.insider.com/672bdb1a192f52589856921b?width=1200&format=jpeg",
+        "publishedAt": "2025-01-20T12:48:38Z",
+        "content": "AP\r\n\u003Cul\u003E\u003Cli\u003EThis post originally appeared in the Business Insider Today newsletter.\u003C/li\u003E\u003Cli\u003EYou can sign up for Business Insider's daily newsletter here.\u003C/li\u003E\u003C/ul\u003EWelcome back, and happy MLK day! I'm… [+4963 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Benjamin Zhang",
+        "title": "I drove the Chinese-made Lincoln Nautilus, and it's one of the best luxury SUVs I've ever tested",
+        "description": "I was impressed by the midsize luxury SUV's elegant styling, upscale interior, and show-stopping tech.",
+        "url": "https://www.businessinsider.com/lincoln-nautilus-luxury-suv-review-tech-big-screen-china-d2025-2",
+        "urlToImage": "https://i.insider.com/67a3ebd17bb3f854015bedfb?width=1200&format=jpeg",
+        "publishedAt": "2025-02-10T16:55:37Z",
+        "content": "The 2025 Lincoln Nautilus Reserve.Benjamin Zhang/Business Insider\r\n\u003Cul\u003E\u003Cli\u003EThe Lincoln Nautilus is a two-row, midsize luxury SUV made at Ford's factory in Hangzhou, China.\u003C/li\u003E\u003Cli\u003EI was impressed by … [+7666 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+        "title": "Apple is making Samsung look good without even trying",
+        "description": "Apple seems to keep hesitating on intriguing new tech categories, giving Samsung an edge in areas like foldables, smart rings, and now smart glasses.",
+        "url": "https://www.androidcentral.com/gaming/virtual-reality/apple-keeps-ceding-ground-to-samsung-that-it-shouldnt",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/48u5nEpTyEqp4YqnP9NzTV-1200-80.jpeg",
+        "publishedAt": "2025-02-05T08:00:00Z",
+        "content": "When I heard that Apple had reportedly scrapped its plans for \"Apple Vision Lite\" AR glasses, I was the furthest thing from shocked. Apple cancels projects all of the time, but more than being risk-a… [+5016 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Kyle Barr",
+        "title": "Jensen Huang Says Nvidia Is a ‘Technology Company,’ but It’s Really an AI Company",
+        "description": "Nvidia and Jensen Huang took over CES 2025 with the RTX 50-series debut, but the hardware is a vehicle for AI ambitions.",
+        "url": "https://gizmodo.com/jensen-huang-says-nvidia-is-a-technology-company-but-its-really-an-ai-company-2000548869",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-2.jpg",
+        "publishedAt": "2025-01-10T21:05:32Z",
+        "content": "Nvidia is a technology company, not a consumer or enterprise company, as emphasized by CEO Jensen Huang. What does he mean, exactly? Doesnt Nvidia want consumers to spend hundreds or thousands of dol… [+5269 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Kyle Barr",
+        "title": "This Pixar-Inspired Robot Lamp Is the First Apple Intelligence Device I Really Want",
+        "description": "For those who love Pixar's Luxo Jr., Apple's engineers developed a lamp that swivels with excitement as it obeys your every whim.",
+        "url": "https://gizmodo.com/this-pixar-inspired-robot-lamp-is-the-first-apple-intelligence-device-i-really-want-2000560938",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1.jpg",
+        "publishedAt": "2025-02-07T19:00:47Z",
+        "content": "Fourteen years ago, the CG wizards at Pixar made us all believe a faceless desk lamp could be enormously expressive and incredibly cute. Apple, with its mind set on home robotics, shows us how such a… [+4001 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+        "title": "We saw three potential futures for smart rings at CES",
+        "description": "From medical B2B sales to jewelry stores, smart rings may find new avenues to attracting consumer interest beyond the niche tech sphere.",
+        "url": "https://www.androidcentral.com/wearables/we-saw-three-potential-futures-for-smart-rings-at-ces",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/b8bgcehJuwaLX7fknBU7ji-1200-80.jpg",
+        "publishedAt": "2025-01-19T13:00:00Z",
+        "content": "Smart rings took the tech world by storm last year, but they're still relatively niche in terms of global sales. Samsung aside, most smart ring brands are fledgling startups, all trying to make a nam… [+6381 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+        "title": "The limited-edition PlayStation tracker is a nerdy gimmick. I want more like it.",
+        "description": "PlayStation China is giving away a PlayStation-branded Xiaomi fitness band; there's a reason limited-edition tech rarely shows up in the States.",
+        "url": "https://www.androidcentral.com/wearables/limited-edition-playstation-fitness-tracker-is-gimmick-but-i-want-more-like-it",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/sJUzyxdSW5d35GCojseNrR-1200-80.jpg",
+        "publishedAt": "2025-01-28T18:29:19Z",
+        "content": "To celebrate its 10th anniversary, PlayStation China teamed up with Xiaomi to release a limited-edition Xiaomi Smart Band 9 Pro, with a special watch band that shows the iconic PlayStation controller… [+4102 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Lori Grunin",
+        "title": "6 Tech Trends from CES 2025 That Will Define the Next Era",
+        "description": "We saw it all at CES 2025, but these are the enduring innovations we think will impact the tech of tomorrow.",
+        "url": "https://www.cnet.com/tech/6-tech-trends-from-ces-2025-that-will-define-the-next-era/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/6bd4e93e2913adeab4f088913548b53451fd0494/hub/2025/01/07/43b14fc6-d53f-40f8-a808-22a6b1f955b5/ces-2025-las-vegas-4476.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-01-13T12:00:15Z",
+        "content": "Though it sometimes feels like everyone's following the same trend (AI), the technology we saw at CES 2025 was remarkably diverse, from practical devices for your home to mind-bogglingly powerful lap… [+12372 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Jeff Carlson",
+        "title": "CES 2025: We Still See These 35 Products When We Close Our Eyes",
+        "description": "The world's largest tech show has driven off into a neon Las Vegas sunset for this year, but we're still obsessing about these products and ideas.",
+        "url": "https://www.cnet.com/pictures/ces-2025-we-still-see-these-35-products-when-we-close-our-eyes/",
+        "urlToImage": "https://www.cnet.com/a/img/hub/2025/01/08/e97f2087-a0c8-40b0-8859-3c2ba6cf9d66/ces-2025-las-vegas-4457.jpg",
+        "publishedAt": "2025-01-16T11:59:02Z",
+        "content": "In a show packed full of hands-on products, the standout -- and overall Best of CES Winner -- is an AI model. CNET Group, which is made up of CNET, ZDNET, PCMag, Mashable and Lifehacker, is the offic… [+705 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Jordan Hart",
+        "title": "OpenAI's 'cost-effective' new AI model is here as pressure from DeepSeek heats up",
+        "description": "OpenAI launched its cost-efficient o3-mini model in the same week that DeepSeek's R1 disrupted the tech industry.",
+        "url": "https://www.businessinsider.com/openai-launches-o3-mini-ai-model-amid-deepseek-concerns-2025-1",
+        "urlToImage": "https://i.insider.com/679d374b196626c4098606d1?width=1200&format=jpeg",
+        "publishedAt": "2025-01-31T22:27:51Z",
+        "content": "OpenAI's new mini model is here.Michael M. Santiago/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EOpenAI introduced o3-mini, a cost-efficient reasoning AI model, on Friday.\u003C/li\u003E\u003Cli\u003EThe release comes as DeepSeek's R1 model s… [+1718 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Jordan Hart",
+        "title": "Big Tech isn't backing down from its big AI spending",
+        "description": "Big Tech earnings showed Microsoft, Meta, and others sticking to their AI spending plans despite DeepSeek's R1 launch.",
+        "url": "https://www.businessinsider.com/meta-microsoft-others-stick-to-ai-spending-infrastructure-deepseek-2025-2",
+        "urlToImage": "https://i.insider.com/679d15f6eb4be2fff9a31dba?width=1200&format=jpeg",
+        "publishedAt": "2025-02-01T10:08:02Z",
+        "content": "Microsoft CEO Satya Nadella says demand for AI data centers is high.Jason Redmond/AFP/Getty Images\r\n\u003Cul\u003E\u003Cli\u003ETech giants appeared to defend their heavy AI investments during their latest earnings call… [+3805 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Riddhi Kanetkar,Hasan Chowdhury",
+        "title": "OpenAI could be worth as much as TikTok owner Bytedance with SoftBank's latest investment",
+        "description": "SoftBank's investment in OpenAI may position the company as the world's joint-second most valuable private tech firm after SpaceX.",
+        "url": "https://www.businessinsider.com/openai-valuation-softbank-investment-spacex-bytedance-2025-1",
+        "urlToImage": "https://i.insider.com/679cd7ff196626c40985eede?width=1200&format=jpeg",
+        "publishedAt": "2025-01-31T14:15:29Z",
+        "content": "Sam Altman and Masayoshi Son announced the Stargate project together at the White House. Andrew Harnik/Getty Images\r\n\u003Cul\u003E\u003Cli\u003ESoftBank is in talks to invest up to $25 billion in OpenAI, which could va… [+3429 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Paresh Dave, Louise Matsakis",
+        "title": "China Is Investigating Google Over Trump's Tariffs",
+        "description": "Google's limited presence in China gives Beijing room to hit back harder if President Donald Trump’s trade war escalates.",
+        "url": "https://www.wired.com/story/google-china-antitrust-trump-tariffs/",
+        "urlToImage": "https://media.wired.com/photos/67a242f3fbbb289f408c30fc/191:100/w_1280,c_limit/china-google-biz-513226286.jpg",
+        "publishedAt": "2025-02-04T17:13:52Z",
+        "content": "The Chinese government announced Tuesday it is opening an investigation into Google in response to 10 percent tariffs imposed on Chinese imports by US President Donald Trump. Minutes after the tariff… [+3743 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Dan DeFrancesco",
+        "title": "Get ready; tech giants are about to report earnings",
+        "description": "Big Tech companies begin reporting after the closing bell, and analysts want to know about DeepSeek's impact.",
+        "url": "https://www.businessinsider.com/deepseek-impact-investors-tech-earnings-apple-google-meta-tesla-amazon-nvidia-what-to-expect-2025-1",
+        "urlToImage": "https://i.insider.com/679a1925eb4be2fff9a2b4fa?width=1200&format=jpeg",
+        "publishedAt": "2025-01-29T12:08:23Z",
+        "content": "AP Photo/David Zalubowski, File; Getty Images; Chelsea Jia Feng/BI\r\n\u003Cul\u003E\u003Cli\u003EThis excerpt originally appeared in the Business Insider Today newsletter.\u003C/li\u003E\u003Cli\u003EThis excerpt originally appeared in the … [+3361 chars]"
+      }
+    ]
+  }

@@ -1,0 +1,52 @@
+@import "tailwindcss";
+@theme {
+  --font-OpenSans: "Open Sans";
+  --font-Karla: "Karla";
+  --breakpoint-xxs: 20rem;
+  --breakpoint-xs: 30rem;
+  --animate-marquee: marquee 1.5s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* Style for the left and right arrows */
+.carousel .control-prev, 
+.carousel .control-next {
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+  color: white; /* White arrow color */
+  padding: 15px; /* Increase padding for larger clickable area */
+  font-size: 30px; /* Larger arrow size */
+  border-radius: 50%; /* Circular background */
+  opacity: 0.8; /* Slight transparency */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transitions */
+}
+
+/* Hover effect: make background darker and scale up the arrows */
+.carousel .control-prev:hover, 
+.carousel .control-next:hover {
+  background-color: rgba(0, 0, 0, 1); /* Darker background on hover */
+  transform: scale(1.1); /* Slightly increase the size on hover */
+  opacity: 1; /* Full opacity on hover */
+}
+
+/* Positioning arrows for better visibility */
+.carousel .control-prev {
+  left: 10px; /* Move left arrow to the left edge */
+  z-index: 10; /* Ensure the left arrow stays on top */
+}
+
+.carousel .control-next {
+  right: 10px; /* Move right arrow to the right edge */
+  z-index: 10; /* Ensure the right arrow stays on top */
+}
+
+
+
+
