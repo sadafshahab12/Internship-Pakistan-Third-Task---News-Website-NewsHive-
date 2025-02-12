@@ -14,7 +14,7 @@ const Tech = ({ search }) => {
   const newsPerPage = 9;
 
   useEffect(() => {
-    const API_URL = `/src/api/tech.json`;
+    const API_URL = `/api/tech.json`;
     const fetchNews = async () => {
       try {
         const response = await fetch(API_URL);

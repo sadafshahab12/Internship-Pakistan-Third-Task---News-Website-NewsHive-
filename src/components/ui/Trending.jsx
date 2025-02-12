@@ -16,7 +16,7 @@ const Trending = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    const trendingNewsAPIURL = "/src/api/trending.json";
+    const trendingNewsAPIURL = "/api/trending.json";
     const FetchTrendingNews = async () => {
       try {
         const response = await fetch(trendingNewsAPIURL);

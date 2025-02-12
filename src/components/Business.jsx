@@ -15,7 +15,7 @@ const Business = ({ search }) => {
   const newsPerPage = 9;
 
   useEffect(() => {
-    const API_URL = `/src/api/business.json`;
+    const API_URL = `/api/business.json`;
     const fetchNews = async () => {
       try {
         const response = await fetch(API_URL);

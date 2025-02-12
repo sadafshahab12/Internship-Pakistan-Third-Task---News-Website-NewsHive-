@@ -14,7 +14,7 @@ const Sports = ({ search }) => {
   const newsPerPage = 9;
 
   useEffect(() => {
-    const API_URL = `/src/api/sports.json`;
+    const API_URL = `/api/sports.json`;
     const fetchNews = async () => {
       try {
         const response = await fetch(API_URL);

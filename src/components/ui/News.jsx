@@ -17,7 +17,7 @@ const News = ({ search }) => {
 
   const navigate = useNavigate();
   useEffect(() => {
-    const API_URL = "/src/api/latestNews.json";
+    const API_URL = "/api/latestNews.json";
 
     const fetchNews = async () => {
       try {
