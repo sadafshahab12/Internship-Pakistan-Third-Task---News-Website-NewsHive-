@@ -142,7 +142,7 @@ const News = ({ search }) => {
             <button
               key={index}
               onClick={() => paginate(index + 1)}
-              className={`xs:h-10 h-5 xs:w-10 w-6 xs:text-sm text-[12px] flex justify-center items-center  
+              className={`xs:h-10 h-5 xs:w-10 w-6 xs:text-sm text-[12px] hidden xs:flex justify-center items-center  
               cursor-pointer ${
                 currentPage === index + 1
                   ? "bg-slate-700 text-white"

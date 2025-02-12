@@ -122,14 +122,15 @@ const Trending = () => {
       </div>
 
       {/* Pagination */}
-      <div className="flex justify-center mt-4">
+      <div className="flex items-center justify-center xs:gap-5 gap-2">
         {Array.from(
           { length: Math.ceil(trendingNews.length / newsPerPage) },
           (_, index) => (
             <button
               key={index}
               onClick={() => paginate(index + 1)}
-              className={`mx-1 px-3 py-1 rounded-md ${
+              className={` xs:h-10 h-5 xs:w-10 w-6 xs:text-sm text-[12px] hidden xs:flex justify-center items-center  
+              cursor-pointer ${
                 currentPage === index + 1
                   ? "bg-red-700 text-white"
                   : "bg-white text-black"
