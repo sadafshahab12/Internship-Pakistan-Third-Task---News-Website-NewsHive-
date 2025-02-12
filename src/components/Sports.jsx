@@ -3,15 +3,17 @@ import { useState } from "react";
 import { IoMdTime } from "react-icons/io";
 import { MdDateRange } from "react-icons/md";
 import Loading from "./ui/Loading";
+import { useNavigate } from "react-router-dom";
+import { auth } from "../../firebase";
 const Sports = ({ search }) => {
   const [sportsNews, setSportsNews] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
-
+  const [user, setUser] = useState(null);
+  const navigate = useNavigate();
   const newsPerPage = 9;
 
   useEffect(() => {
-
     const API_URL = `/src/api/sports.json`;
     const fetchNews = async () => {
       try {
@@ -27,6 +29,7 @@ const Sports = ({ search }) => {
       }
     };
     fetchNews();
+    auth.onAuthStateChanged((curretUser) => setUser(curretUser));
   }, []);
   if (loading) {
     return (
@@ -66,6 +69,13 @@ const Sports = ({ search }) => {
             second: "2-digit",
             hour12: true,
           });
+          const handleReadMore = () => {
+            if (!user) {
+              navigate("/signup");
+            } else {
+              window.open(sportsNews.url, "_blank");
+            }
+          };
           return (
             <div
               key={index}
@@ -95,11 +105,13 @@ const Sports = ({ search }) => {
                   {formatedTime}
                 </p>
               </div>
-              <a href={sportsNews.url} target="_blank">
-                <button className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm">
-                  Read More
-                </button>
-              </a>
+
+              <button
+                onClick={handleReadMore}
+                className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm"
+              >
+                Read More
+              </button>
             </div>
           );
         })}

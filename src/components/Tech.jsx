@@ -3,11 +3,14 @@ import { useState } from "react";
 import { IoMdTime } from "react-icons/io";
 import { MdDateRange } from "react-icons/md";
 import Loading from "./ui/Loading";
+import { useNavigate } from "react-router-dom";
+import { auth } from "../../firebase";
 const Tech = ({ search }) => {
   const [techNews, setTechNews] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
-
+  const [user, setUser] = useState(null);
+  const navigate = useNavigate();
   const newsPerPage = 9;
 
   useEffect(() => {
@@ -26,11 +29,12 @@ const Tech = ({ search }) => {
       }
     };
     fetchNews();
+    auth.onAuthStateChanged((currentUser) => setUser(currentUser));
   }, []);
   if (loading) {
     return (
       <div>
-        <Loading  loadingText={"Tech News"}/>
+        <Loading loadingText={"Tech News"} />
       </div>
     );
   }
@@ -65,6 +69,13 @@ const Tech = ({ search }) => {
               second: "2-digit",
               hour12: true,
             });
+            const handleReadMore = () => {
+              if (!user) {
+                navigate("/signup");
+              } else {
+                window.open(techNews.url, "_blank");
+              }
+            };
             return (
               <div
                 key={index}
@@ -94,11 +105,13 @@ const Tech = ({ search }) => {
                     {formatedTime}
                   </p>
                 </div>
-                <a href={techNews.url} target="_blank">
-                  <button className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm">
-                    Read More
-                  </button>
-                </a>
+
+                <button
+                  onClick={handleReadMore}
+                  className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm"
+                >
+                  Read More
+                </button>
               </div>
             );
           })

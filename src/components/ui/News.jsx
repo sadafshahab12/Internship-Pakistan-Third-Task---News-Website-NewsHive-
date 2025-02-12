@@ -5,17 +5,20 @@ import Loading from "./Loading";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
+import { useNavigate } from "react-router-dom";
+import { auth } from "../../../firebase";
 
 const News = ({ search }) => {
   const [news, setNews] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
   const newsPerPage = 9;
+  const [user, setUser] = useState(null);
 
+  const navigate = useNavigate();
   useEffect(() => {
-
     const API_URL = "/src/api/latestNews.json";
-    
+
     const fetchNews = async () => {
       try {
         const response = await fetch(API_URL);
@@ -29,12 +32,13 @@ const News = ({ search }) => {
         }, 1500);
       }
     };
-    
+
     fetchNews();
+    auth.onAuthStateChanged((currentUser) => setUser(currentUser));
   }, []);
 
   if (loading) {
-    return <Loading loadingText={"Latest News"}/>;
+    return <Loading loadingText={"Latest News"} />;
   }
 
   let carouselSettings = {
@@ -82,7 +86,13 @@ const News = ({ search }) => {
               second: "2-digit",
               hour12: true,
             });
-
+            const handleReadMore = () => {
+              if (!user) {
+                navigate("/signup");
+              } else {
+                window.open(latestNews.url, "_blank");
+              }
+            };
             return (
               <div
                 key={index}
@@ -110,11 +120,13 @@ const News = ({ search }) => {
                     <IoMdTime className="w-5 h-5" /> {formattedTime}
                   </p>
                 </div>
-                <a href={latestNews.url} target="_blank" rel="noopener noreferrer">
-                  <button className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm">
-                    Read More
-                  </button>
-                </a>
+
+                <button
+                  onClick={handleReadMore}
+                  className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm"
+                >
+                  Read More
+                </button>
               </div>
             );
           })
@@ -160,7 +172,13 @@ const News = ({ search }) => {
                 second: "2-digit",
                 hour12: true,
               });
-
+              const handleReadMore = () => {
+                if (!user) {
+                  navigate("/signup");
+                } else {
+                  window.open(latestNews.url, "_blank");
+                }
+              };
               return (
                 <div key={index} className="p-2 space-y-4 min-h-125">
                   <div className="space-y-2">
@@ -185,11 +203,13 @@ const News = ({ search }) => {
                       <IoMdTime className="w-5 h-5" /> {formattedTime}
                     </p>
                   </div>
-                  <a href={latestNews.url} target="_blank" rel="noopener noreferrer">
-                    <button className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm">
-                      Read More
-                    </button>
-                  </a>
+
+                  <button
+                    onClick={handleReadMore}
+                    className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm"
+                  >
+                    Read More
+                  </button>
                 </div>
               );
             })

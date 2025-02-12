@@ -17,7 +17,6 @@ const Politics = () => {
   const newsPerPage = 9;
 
   useEffect(() => {
-
     const API_URL = `/src/api/politics.json`;
     const fetchNews = async () => {
       try {

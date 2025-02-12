@@ -3,15 +3,18 @@ import { useState } from "react";
 import { IoMdTime } from "react-icons/io";
 import { MdDateRange } from "react-icons/md";
 import Loading from "./ui/Loading";
+import { auth } from "../../firebase";
+import { useNavigate } from "react-router-dom";
 const Business = ({ search }) => {
   const [businessNews, setBusinessNews] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
+  const [user, setUser] = useState(null);
 
+  const navigate = useNavigate();
   const newsPerPage = 9;
 
   useEffect(() => {
-
     const API_URL = `/src/api/business.json`;
     const fetchNews = async () => {
       try {
@@ -27,6 +30,7 @@ const Business = ({ search }) => {
       }
     };
     fetchNews();
+    auth.onAuthStateChanged((currentUser) => setUser(currentUser));
   }, []);
   if (loading) {
     return (
@@ -66,6 +70,13 @@ const Business = ({ search }) => {
               second: "2-digit",
               hour12: true,
             });
+            const handleReadMore = () => {
+              if (!user) {
+                navigate("/signup");
+              } else {
+                window.open(businessNews.url, "_blank");
+              }
+            };
             return (
               <div
                 key={index}
@@ -95,11 +106,11 @@ const Business = ({ search }) => {
                     {formatedTime}
                   </p>
                 </div>
-                <a href={businessNews.url} target="_blank">
-                  <button className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm">
+       
+                  <button onClick={handleReadMore} className="cursor-pointer py-2 px-4 rounded-md bg-red-700 text-white text-sm">
                     Read More
                   </button>
-                </a>
+               
               </div>
             );
           })
@@ -116,10 +127,11 @@ const Business = ({ search }) => {
               key={index}
               onClick={() => paginate(index + 1)}
               className={`h-10 w-10 flex justify-center items-center  
-              cursor-pointer ${currentPage === index + 1
+              cursor-pointer ${
+                currentPage === index + 1
                   ? "bg-slate-700 text-white"
                   : "border border-slate-700"
-                }`}
+              }`}
             >
               {index + 1}
             </button>
